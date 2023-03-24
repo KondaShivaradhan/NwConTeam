@@ -1,0 +1,19 @@
+.authorLogin{
+    /* border: 1px solid black; */
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.authorContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("../../assets/bg6.jpg");
+    background-size: cover;
+}
+.iconsContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
